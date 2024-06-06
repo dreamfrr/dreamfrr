@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dreamfrr
-- 👀 I’m interested in Cybersecurity and CTF's
-- 🌱 I’m currently learning The fundamental of cybersecurity and coding
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cloud Computing's
+- 🌱 I’m currently learning Cloud services in Google Cloud Platform
+- 💞️ I’m looking to collaborate on cloud project
 - 📫 How to reach me @drmfr#1694 in Discord
 
 <!---
